@@ -1,0 +1,157 @@
+{
+  "updatedAt": "2025-09-08T06:35:49.597Z",
+  "items": [
+    {
+      "id": "waf-01",
+      "name": "Tek Meyveli Waffle",
+      "desc": "Taze meyve ile hazırlanan lezzetli waffle",
+      "price": 19000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-02",
+      "name": "İki Meyveli Waffle",
+      "desc": "İki çeşit taze meyve ile",
+      "price": 20000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-03",
+      "name": "Krem Şantili Waffle",
+      "desc": "Hafif krem şanti ile süslenmiş",
+      "price": 23000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-04",
+      "name": "Kahveli Waffle",
+      "desc": "Kahve aromalı özel waffle",
+      "price": 25000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-05",
+      "name": "Trend Waffle",
+      "desc": "En popüler karışım ile hazırlanan",
+      "price": 28000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-06",
+      "name": "Orman Meyveli Waffle",
+      "desc": "Orman meyveleri ile zenginleştirilmiş",
+      "price": 28000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-07",
+      "name": "Bol Meyveli Waffle",
+      "desc": "Çeşit çeşit taze meyveler ile",
+      "price": 30000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-08",
+      "name": "Özel Meyveli Waffle",
+      "desc": "Özenle seçilmiş meyveler ile",
+      "price": 30000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-09",
+      "name": "Antepli Waffle",
+      "desc": "Antep fıstığı ile hazırlanan özel lezzet",
+      "price": 32000,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "waf-10",
+      "name": "Fit Waffle",
+      "desc": "Az şekerli, tam buğday unu",
+      "price": 15500,
+      "cat": "WAFFLE",
+      "active": true
+    },
+    {
+      "id": "ext-01",
+      "name": "Dondurma Topu",
+      "desc": "Vanilyalı dondurma (1 top)",
+      "price": 3500,
+      "cat": "EXTRA",
+      "active": true
+    },
+    {
+      "id": "ext-02",
+      "name": "Meyve Ekstra",
+      "desc": "Taze mevsim meyveleri",
+      "price": 4000,
+      "cat": "EXTRA",
+      "active": true
+    },
+    {
+      "id": "ext-03",
+      "name": "Fıstık Ekstra",
+      "desc": "Kavrulmuş fındık/badem",
+      "price": 3000,
+      "cat": "EXTRA",
+      "active": true
+    },
+    {
+      "id": "ext-04",
+      "name": "Bisküvi Kreması",
+      "desc": "Çeşitli bisküvi kreması",
+      "price": 2500,
+      "cat": "EXTRA",
+      "active": true
+    },
+    {
+      "id": "drk-01",
+      "name": "Türk Kahvesi",
+      "desc": "Şekersiz/orta/şekerli",
+      "price": 4500,
+      "cat": "DRINK",
+      "active": true
+    },
+    {
+      "id": "drk-02",
+      "name": "Latte",
+      "desc": "Espresso + süt köpüğü",
+      "price": 5500,
+      "cat": "DRINK",
+      "active": true
+    },
+    {
+      "id": "drk-03",
+      "name": "Çay",
+      "desc": "Bergamot aromalı",
+      "price": 3000,
+      "cat": "DRINK",
+      "active": true
+    },
+    {
+      "id": "drk-04",
+      "name": "Limonata",
+      "desc": "Taze sıkılmış limon",
+      "price": 4000,
+      "cat": "DRINK",
+      "active": true
+    },
+    {
+      "id": "drk-05",
+      "name": "Su",
+      "desc": "500ml şişe su",
+      "price": 2000,
+      "cat": "DRINK",
+      "active": true
+    }
+  ]
+}
